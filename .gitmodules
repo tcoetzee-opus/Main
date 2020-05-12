@@ -1,0 +1,3 @@
+[submodule "subapp2"]
+	path = subapp2
+	url = https://github.com/tcoetzee-opus/subapp2.git
